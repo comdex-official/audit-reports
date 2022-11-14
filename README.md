@@ -4,7 +4,7 @@
 
 1. Report for both comdex core and governance contract audits by Oak security.
 
-Few of the pending findings from the reports have been resolved and code is submitted to oak team to re-verify those, once the team receives the report it will be uploaded here.
+Few of the pending findings from the reports have been resolved and code is submitted to oak team to re-verify those, once the team receives the report it will be updated here.
 
 https://github.com/comdex-official/audit-reports/blob/main/Audit_Report_Comdex_v0.8_02_NOV.pdf
 
