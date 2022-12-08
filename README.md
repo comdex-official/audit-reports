@@ -4,7 +4,7 @@
 
 1. Report for both comdex core and governance contract audits by Oak security.
 
-https://github.com/comdex-official/audit-reports/blob/main/Audit_Report_Comdex_v0.9.pdf
+https://github.com/comdex-official/audit-reports/blob/main/Audit_Report_Comdex_v0.10_2022-12-08%20.pdf
 
 
 2. Report for both comdex core lend and liquidation modules audits by Oak security.
